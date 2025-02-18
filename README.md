@@ -28,4 +28,6 @@ Welcome to the **Valentine Day Special** website! 🌹 This beautifully designed
 If this project touched your heart, leave a ⭐ on GitHub and share it with your loved ones!  
 
 ---  
-🌹 "Love is not just something you feel, it's something you do." - Celebrate love every day, not just on Valentine’s! 💕
+🌹 "Love is not just something you feel, it's something you do." - Celebrate love every day, not just on Valentine’s! 💕  
+
+### 💖 Created by Arqam Hussain on the special request of a friend 💖
